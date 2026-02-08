@@ -229,6 +229,14 @@
         }
       },
       "response": []
+    },
+    {
+      "name": "GET all users",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
     }
   ]
 }
